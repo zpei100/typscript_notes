@@ -1,0 +1,23 @@
+{
+  "name": "toy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homework.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/You-Should-Be-Coding/Javascript_101_toy_problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/You-Should-Be-Coding/Javascript_101_toy_problems/issues"
+  },
+  "homepage": "https://github.com/You-Should-Be-Coding/Javascript_101_toy_problems#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.31"
+  }
+}

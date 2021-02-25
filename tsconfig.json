@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "lib": ["es6"],
+        "module": "commonjs",
+        "sourceMap": true,
+        "outDir": "out"
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules", "**/*.js", "out"]
+}
