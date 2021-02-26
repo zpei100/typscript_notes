@@ -8,11 +8,11 @@
             "type": "pwa-node",
             "request": "launch",
             "name": "Launch Program",
-            "preLaunchTask": "tsc: build - tsconfig.json",
+            "preLaunchTask": "npm: compileTS",
             "skipFiles": [
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/out/notes.js"
         }
     ]
-}
+}oconsooiiiikasadasdasdasdasdasdasd

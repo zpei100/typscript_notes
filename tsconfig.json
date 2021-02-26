@@ -6,5 +6,6 @@
         "outDir": "out"
     },
     "include": ["src/**/*.ts"],
-    "exclude": ["node_modules", "**/*.js", "out"]
+    "exclude": ["node_modules", "**/*.js", "out"],
+    "baseUrl": "./"
 }
